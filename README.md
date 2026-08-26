@@ -121,7 +121,7 @@ Provides the Gradio web interface and connects the user to the AI agent.
 Clone the repository:
 
 ```bash
-git clone <https://github.com/marames25/devintel-mcp.git>
+git clone https://github.com/marames25/devintel-mcp.git
 cd devintel-mcp
 ```
 
